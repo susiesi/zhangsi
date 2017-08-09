@@ -12,25 +12,79 @@
   position:absolute;
   z-index:0;
 }
-#u120_img {
+#u124_img {
   position:absolute;
   left:0px;
   top:0px;
   width:1660px;
   height:867px;
 }
-#u120 {
+#u124 {
   position:absolute;
   left:0px;
   top:0px;
   width:1660px;
   height:867px;
 }
-#u121 {
+#u125 {
   position:absolute;
   left:2px;
   top:426px;
   width:1656px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u126 {
+  position:absolute;
+  left:125px;
+  top:250px;
+  width:93px;
+  height:34px;
+}
+#u126_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:93px;
+  height:34px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u126_ann {
+  position:absolute;
+  left:211px;
+  top:246px;
+  width:1px;
+  height:1px;
+}
+#u127_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:136px;
+  height:35px;
+}
+#u127 {
+  position:absolute;
+  left:245px;
+  top:250px;
+  width:135px;
+  height:34px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#A1A1A1;
+  text-align:left;
+}
+#u128 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:131px;
   word-wrap:break-word;
 }
