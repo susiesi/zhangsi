@@ -51,6 +51,9 @@
 ._文本段落 {
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 ._流程形状 {
 }
 .box_1 {
@@ -87,14 +90,22 @@
 .box_11 {
 }
 ._连接线 {
-  font-family:'微软雅黑';
-  font-weight:409;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
-  font-size:12px;
+  font-size:13px;
   color:#333333;
   text-align:center;
   line-height:normal;
 }
 ._文本段落1 {
   text-align:left;
+}
+.icon {
+}
+.flow_shape {
+}
+.box_21 {
+}
+.line {
 }
